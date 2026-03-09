@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>	// Header File
 
-int main(void)
+int main(void)		// main Function
 {
-	printf("in main.... block.\n");
-	printf("%d\n", 45+54);
-	
-	return (0);
+	printf("in main.... block.\n");		// Function call
+	printf("%d\n", 45+54);			// Function call
+		
+	return (0);				// return statement
 }
 
 /*
