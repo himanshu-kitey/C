@@ -1,4 +1,4 @@
-#include <stdio.h>	// Header File
+#include <stdio.h>	// Header File Inclusion
 
 int main(void)		// main Function
 {
