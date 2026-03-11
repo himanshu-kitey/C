@@ -1,0 +1,3 @@
+- Understanding 'char' data defination statement.
+- How negative numbers store in memeory.
+- Range of 'char'.
